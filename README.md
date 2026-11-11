@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Athit Chadat (เพลง)
 
+## คติประจำใจ
+วันนี้อาจบินได้เพียงระยะสั้น แต่วันหน้าจะโบยบินได้ไกลกว่าที่เคยฝัน
+
 ### 💻 Computer Science Student | Software Developer | Game Developer
 
 <div align="center">
